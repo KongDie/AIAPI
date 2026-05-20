@@ -1,0 +1,16 @@
+{
+  "name": "个人AI助手",
+  "short_name": "AI助手",
+  "description": "一个功能丰富的个人AI助手，提供沉浸式应用体验。",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#1a1a1a",
+  "theme_color": "#1a1a1a"
+}

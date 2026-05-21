@@ -14,8 +14,7 @@
 
 - Node.js 18 或更高版本
 - npm
-- 可用的 Gemini API Key，或兼容接口地址
-
+- 可用的第三方端点API Key
 ## 本地运行
 
 ```bash
